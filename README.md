@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @ThuwarakeshM
-- 👀 I’m interested in Data Science (Python), Web Development (Using Django, GraphQL and React), Microservices
-- 🌱 I’m currently learning Serverless Architectures and AWS Amplify
-- 💞️ I’m looking to collaborate on community projects that help animals and forest recover from extinction. 
+# I'm a data scientist @ Stax, Inc. and 2X Top writer on Medium. 
 
-- 📫 How to reach me 
+I love to explore topics on data science, machine learning, artificial intelligence and their appllication to business and social sciences. 
 
-I frequently write on topic related to data science and conservation on Medium.com.
-Here are the links to follow me on Medium.com, Twitter and LinkedIn.
+If you found me here, you and I have a lot of common interests. 
+
+___Let's connect.___
 
 - [Medium](https://thuwarakesh.medium.com/)
 
