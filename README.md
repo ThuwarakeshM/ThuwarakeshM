@@ -1,4 +1,4 @@
-# I'm a data scientist @ Stax, Inc. and 2X Top writer on Medium. 
+# Thuwarakesh Murallie: Data scientist @ Stax, Inc. and 2X Top writer on Medium. 
 
 I love to explore topics on data science, machine learning, artificial intelligence and their appllication to business and social sciences. 
 
