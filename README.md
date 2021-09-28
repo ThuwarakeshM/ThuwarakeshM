@@ -4,6 +4,8 @@ I love to explore topics on data science, machine learning, artificial intellige
 
 If you found me here, you and I have a lot of common interests. 
 
+Please do check out my personal blog, [___The Analytics Club___: A Data Science Blog](https://www.the-analytics.club) as well.
+
 ___Let's connect.___
 
 - [Medium](https://thuwarakesh.medium.com/)
