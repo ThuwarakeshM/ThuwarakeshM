@@ -1,6 +1,6 @@
-# Thuwarakesh Murallie: Data scientist @ Stax, LLC.
+# Thuwarakesh Murallie, Data scientist @ Stax, LLC.
 
-Greetings, fellow data enthusiasts! 
+Greetings, fellow data enthusiasts! 👋 
 
 My name is Thuwarakesh Murallie, and I'm passionate about all things data. With a BSc (Hons) in Statistics (Special) from the esteemed University of Peradeniya, I've also completed the CIMA Strategic Level and accumulated several certifications related to Data Science.
 
